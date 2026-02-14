@@ -1,3 +1,3 @@
-# nEw project
+# new project
 
-This is a project was created 
+This is a project created 
